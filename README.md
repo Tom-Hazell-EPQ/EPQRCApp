@@ -1,1 +1,1 @@
-This is the App to remote control a modified remote control car. This requires the app as well.
+This is the App to remote control a modified remote control car. This requires the server as well.
