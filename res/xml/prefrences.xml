@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:defaultValue="192.168.1.105"
+        android:dialogTitle="IP"
+        android:key="ipserver"
+        android:summary="The IP of the PI you want to connect to (found when you first run the server)"
+        android:title="IP Address" />
+
+    <Preference
+        android:key="TEXXT_STATIC"
+        android:selectable="false"
+        android:summary="Press the back button to go back to the main app."
+        android:title="Press Back Button to go back." />
+
+</PreferenceScreen>
